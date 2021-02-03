@@ -1,0 +1,13 @@
+[
+    {
+      "type": "checkbox",
+      "soal": "Siapakah yang Cantik di bawah ini ?",
+      "A": "Dewa Brata",
+      "B": "Chelsea Islan",
+      "C": "Raisa",
+      "D": "Natasha Wilona",
+      "kunci": ["B", "C", "D"],
+      "score": 10
+    }
+  ]
+  
